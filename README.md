@@ -4,22 +4,10 @@
 
 I'm a passionate programmer, I am eager to challenge myself to do things I've never accomplished, and I love to learn and improve my skills every day :)
 
-
-
-I'm a passionate Backend developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Node.js and MongoDB. I'm always eager to learn and take on new challenges in the tech world.
-
-
-###Connect with me:
-- LinkedIn: [linkedin.com/in/siddhld](https://www.linkedin.com/in/siddharthhaldhar/)
-- Twitter: [twitter.com/siddhld](https://twitter.com/Siddharthhld)
-- Email: [connect2sidd@hotmail.com](connect2sidd@hotmail.com)
-
-
-
-
+<br/>
 
 ### Skills
-
+<br/>
 Here are some of my skills and expertise:
 
 OS: Windows Linux
@@ -29,11 +17,73 @@ Tech./Frame.: Springboot MySql Redis
 MongoDB REST Git & Github Mokito
 Junit Design Patterns Docker Jackson
 
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="85">
+        <img src="https://skillicons.dev/icons?i=react" width="65" height="45" />
+      <br>React
+    </td>
+    <td align="center" width="85">
+        <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="javascript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="85">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="85">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="85">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="85">
+        <img src="https://skillicons.dev/icons?i=hibernate" width="48" height="48" alt="hibernate" />
+      <br>Hibernate
+    </td>
+    <td align="center" width="85">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongodb" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="85">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="java" />
+      <br>Java
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="85">
+        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="spring" />
+      <br>Spring
+    </td>
+    <td align="center" width="85">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="sql" />
+      <br>MySQL
+    </td>
+    <td align="center" width="85">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="vscode" />
+      <br>vs code
+    </td>
+    <td align="center" width="85">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="linux" />
+      <br>Linux
+    </td>
+
+  </tr>
+</table>
+</div>
+
+
+
 
 
 
 ### Projects
-
+<br/>
 Here are some of my latest projects:
 
 | Name | Description | Tech Stack |
@@ -48,9 +98,8 @@ You can check out all of my projects on my [GitHub profile](https://github.com/<
 
 
 
-
 ### ACHIEVEMENTS
-
+<br/>
 ![Geektrust Badge](https://github.com/siddhld/siddhld/assets/90497078/50da4a01-50ea-423b-acdd-82a931e0c668)
 Created a standout project on GeekTrust, earning a stellar 88/100. Got a Gold Badge for the perfect readability and maintainability of the code.
 
@@ -67,7 +116,7 @@ PROFILE LINKS
 
 
 ### Interests & Hobbies
-
+<br/>
 Apart from coding, I love to:
 
 - Play guitar and learn new songs
@@ -80,10 +129,17 @@ Apart from coding, I love to:
 
 
 
-
-
 ### CERTIFICATES
+<br/>
 - Core Java In Depth - [](https://www.udemy.com/certificate/UC-af3aa260-ceba-4ded-a651-f762a91a7069/)
 - Spring, Springboot And Hibernate - [](https://www.udemy.com/certificate/UC-e5544a22-d6ee-4849-afae-a913fd38961f/)
 - Version Control - [](https://www.coursera.org/account/accomplishments/verify/JYLDGDK25845)
 - Databases for Backend Development - [](https://www.coursera.org/account/accomplishments/verify/6YJZP4S9Z2LQ)
+
+
+### Connect with me:
+<br/>
+- LinkedIn: [linkedin.com/in/siddhld](https://www.linkedin.com/in/siddharthhaldhar/)
+- Twitter: [twitter.com/siddhld](https://twitter.com/Siddharthhld)
+- Email: [connect2sidd@hotmail.com](connect2sidd@hotmail.com)
+
