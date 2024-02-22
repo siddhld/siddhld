@@ -7,6 +7,7 @@ I'm a passionate programmer, I am eager to challenge myself to do things I've ne
 
 
 
+
 # Skills
 ## Here are some of my skills and expertise:
 
@@ -79,6 +80,9 @@ Junit Design Patterns Docker Jackson
 
 
 
+
+
+
 # Projects
 ## Here are some of my latest projects:
 
@@ -94,6 +98,9 @@ You can check out all of my projects on my [GitHub profile](https://github.com/<
 
 
 
+
+
+
 # ACHIEVEMENTS
 ![Geektrust Badge](https://github.com/siddhld/siddhld/assets/90497078/29f7b357-4b52-4747-95ba-7decce2bda7b)
 Created a standout project on GeekTrust, earning a stellar 88/100. Got a Gold Badge for the perfect readability and maintainability of the code.
@@ -104,35 +111,47 @@ Crio.Do, showcasing strong problem solving skills and a deep understanding of co
 
 
 
+
+
+
 # Profile links
-GEEKSFORGEEKS [geeksforgeeks.com/siddharth](https://auth.geeksforgeeks.org/user/sidd_01/)
-LEETCODE [leetcode.com/siddharth](https://leetcode.com/Siddharthkr03/)
-CODINGNINJAS [codingninjas.com/siddharth](https://www.codingninjas.com/studio/profile/692b6a55-ce79-4e6f-97b1-2b5ca047f8bf)
+-- GEEKSFORGEEKS [geeksforgeeks.com/siddharth](https://auth.geeksforgeeks.org/user/sidd_01/)
+-- LEETCODE [leetcode.com/siddharth](https://leetcode.com/Siddharthkr03/)
+-- CODINGNINJAS [codingninjas.com/siddharth](https://www.codingninjas.com/studio/profile/692b6a55-ce79-4e6f-97b1-2b5ca047f8bf)
+
+
+
 
 
 
 # Interests & Hobbies
 Apart from coding, I love to:
 
-Play guitar and learn new songs
-Solve Rubik's cubes and other puzzles
-Watch movies and series
-Read books (Self help, Biographical, Novels)
-Play video games and board games
-Play football and badminton
+-- Play guitar and learn new songs
+-- Solve Rubik's cubes and other puzzles
+-- Watch movies and series
+-- Read books (Self help, Biographical, Novels)
+-- Play video games and board games
+-- Play football and badminton
 -- Explore new places and cultures
 
 
 
+
+
+
 # CERTIFICATES
-Core Java In Depth [](https://www.udemy.com/certificate/UC-af3aa260-ceba-4ded-a651-f762a91a7069/)
-Spring, Springboot And Hibernate [](https://www.udemy.com/certificate/UC-e5544a22-d6ee-4849-afae-a913fd38961f/)
-Version Control [](https://www.coursera.org/account/accomplishments/verify/JYLDGDK25845)
-Databases for Backend Development [](https://www.coursera.org/account/accomplishments/verify/6YJZP4S9Z2LQ)
+-- Core Java In Depth [](https://www.udemy.com/certificate/UC-af3aa260-ceba-4ded-a651-f762a91a7069/)
+-- Spring, Springboot And Hibernate [](https://www.udemy.com/certificate/UC-e5544a22-d6ee-4849-afae-a913fd38961f/)
+-- Version Control [](https://www.coursera.org/account/accomplishments/verify/JYLDGDK25845)
+-- Databases for Backend Development [](https://www.coursera.org/account/accomplishments/verify/6YJZP4S9Z2LQ)
+
+
+
 
 
 # Connect with me:
-LinkedIn: [linkedin.com/in/siddhld](https://www.linkedin.com/in/siddharthhaldhar/)
-Twitter: [twitter.com/siddhld](https://twitter.com/Siddharthhld)
-Email: [connect2sidd@hotmail.com](connect2sidd@hotmail.com)
+-- LinkedIn: [linkedin.com/in/siddhld](https://www.linkedin.com/in/siddharthhaldhar/)
+-- Twitter: [twitter.com/siddhld](https://twitter.com/Siddharthhld)
+-- Email: [connect2sidd@hotmail.com](connect2sidd@hotmail.com)
 
