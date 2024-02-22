@@ -4,11 +4,11 @@
 
 I'm a passionate programmer, I am eager to challenge myself to do things I've never accomplished, and I love to learn and improve my skills every day :)
 
-<br/>
+
+
 
 ### Skills
-<br/>
-Here are some of my skills and expertise:
+# Here are some of my skills and expertise:
 
 OS: Windows Linux
 Languages: Java C C++ Javascript
@@ -79,12 +79,8 @@ Junit Design Patterns Docker Jackson
 
 
 
-
-
-
 ### Projects
-<br/>
-Here are some of my latest projects:
+# Here are some of my latest projects:
 
 | Name | Description | Tech Stack |
 | --- | --- | --- |
@@ -99,19 +95,20 @@ You can check out all of my projects on my [GitHub profile](https://github.com/<
 
 
 ### ACHIEVEMENTS
-<br/>
-![Geektrust Badge](https://github.com/siddhld/siddhld/assets/90497078/50da4a01-50ea-423b-acdd-82a931e0c668)
-Created a standout project on GeekTrust, earning a stellar 88/100. Got a Gold Badge for the perfect readability and maintainability of the code.
 
-Data Structures and Algorithms
+![Geektrust Badge](https://github.com/siddhld/siddhld/assets/90497078/29f7b357-4b52-4747-95ba-7decce2bda7b)
+Created a standout project on GeekTrust, earning a stellar 88/100. Got a Gold Badge for the perfect readability and maintainability of the code.
+
+# Data Structures and Algorithms
 Successfully solved more than 550+ Data Structures and Algorithm questions on platforms such as LeetCode, GeeksforGeeks, CodingNinjas, and
 Crio.Do, showcasing strong problem solving skills and a deep understanding of core concepts.
 
-PROFILE LINKS
-(Logo) geeksforgeeks.com/siddharth - [](https://auth.geeksforgeeks.org/user/sidd_01/)
-(Logo) leetcode.com/siddharth - [](https://leetcode.com/Siddharthkr03/)
-(Logo) codingninjas.com/siddharth - [](https://www.codingninjas.com/studio/profile/692b6a55-ce79-4e6f-97b1-2b5ca047f8bf)
 
+
+### PROFILE LINKS
+- GEEKSFORGEEKS [geeksforgeeks.com/siddharth](https://auth.geeksforgeeks.org/user/sidd_01/)
+- LEETCODE [leetcode.com/siddharth](https://leetcode.com/Siddharthkr03/)
+- CODINGNINJAS [codingninjas.com/siddharth](https://www.codingninjas.com/studio/profile/692b6a55-ce79-4e6f-97b1-2b5ca047f8bf)
 
 
 
@@ -130,15 +127,13 @@ Apart from coding, I love to:
 
 
 ### CERTIFICATES
-<br/>
-- Core Java In Depth - [](https://www.udemy.com/certificate/UC-af3aa260-ceba-4ded-a651-f762a91a7069/)
-- Spring, Springboot And Hibernate - [](https://www.udemy.com/certificate/UC-e5544a22-d6ee-4849-afae-a913fd38961f/)
-- Version Control - [](https://www.coursera.org/account/accomplishments/verify/JYLDGDK25845)
-- Databases for Backend Development - [](https://www.coursera.org/account/accomplishments/verify/6YJZP4S9Z2LQ)
+- Core Java In Depth [](https://www.udemy.com/certificate/UC-af3aa260-ceba-4ded-a651-f762a91a7069/)
+- Spring, Springboot And Hibernate [](https://www.udemy.com/certificate/UC-e5544a22-d6ee-4849-afae-a913fd38961f/)
+- Version Control [](https://www.coursera.org/account/accomplishments/verify/JYLDGDK25845)
+- Databases for Backend Development [](https://www.coursera.org/account/accomplishments/verify/6YJZP4S9Z2LQ)
 
 
 ### Connect with me:
-<br/>
 - LinkedIn: [linkedin.com/in/siddhld](https://www.linkedin.com/in/siddharthhaldhar/)
 - Twitter: [twitter.com/siddhld](https://twitter.com/Siddharthhld)
 - Email: [connect2sidd@hotmail.com](connect2sidd@hotmail.com)
