@@ -26,22 +26,22 @@ Junit Design Patterns Docker Jackson
       <br>React
     </td>
     <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="javascript" />
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="java" />
       <br>JavaScript
     </td>
     <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
+        <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="javascript" />
+      <br>Javascript
     </td>
     <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
+        <img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="maven" />
+      <br>Maven
     </td>
   </tr>
   <tr>
     <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
+        <img src="https://skillicons.dev/icons?i=gradle" width="48" height="48" alt="gradle" />
+      <br>Gradle
     </td>
     <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=hibernate" width="48" height="48" alt="hibernate" />
