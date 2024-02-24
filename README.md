@@ -59,10 +59,10 @@ Apart from coding, I love to:
 - Explore new places and cultures 🌍
 
 ## CERTIFICATES 🎓
-- Core Java In Depth [](https://www.udemy.com/certificate/UC-af3aa260-ceba-4ded-a651-f762a91a7069/) 📜
-- Spring, Springboot And Hibernate [](https://www.udemy.com/certificate/UC-e5544a22-d6ee-4849-afae-a913fd38961f/) 🌱
-- Version Control [](https://www.coursera.org/account/accomplishments/verify/JYLDGDK25845) 📝
-- Databases for Backend Development [](https://www.coursera.org/account/accomplishments/verify/6YJZP4S9Z2LQ) 📊
+- [Core Java In Depth 🔗](https://www.udemy.com/certificate/UC-af3aa260-ceba-4ded-a651-f762a91a7069/) 📜
+- [Spring, Springboot And Hibernate 🔗](https://www.udemy.com/certificate/UC-e5544a22-d6ee-4849-afae-a913fd38961f/) 🌱
+- [Version Control 🔗](https://www.coursera.org/account/accomplishments/verify/JYLDGDK25845) 📝
+- [Databases for Backend Development 🔗](https://www.coursera.org/account/accomplishments/verify/6YJZP4S9Z2LQ) 📊
 
 ### 📫 How to reach me...
 - LinkedIn: [linkedin.com/in/siddhld](https://www.linkedin.com/in/siddharthhaldhar/) 💼
