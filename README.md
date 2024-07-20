@@ -12,7 +12,7 @@ I'm a passionate programmer, And I am eager to challenge myself to do things I'v
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,git,maven,gradle,idea,eclipse&theme=light)](https://skillicons.dev)
 
 #### Additional Skills
-[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,javascript,tailwind,react,nodejs,express,mongodb,git,kubernetes,docker,postman,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,javascript,tailwind,react,nodejs,express,mongodb,git,kubernetes,docker,postman,vscode,kafka&theme=dark)](https://skillicons.dev)
 
 ## Projects
 ### Here are some of my latest projects:
