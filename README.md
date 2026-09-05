@@ -3,8 +3,6 @@
 
 I'm a passionate programmer, And I am eager to challenge myself to do things I've never accomplished, and I love to learn and improve my skills every day :)
 
-[![siddhld's GitHub | Stats](https://stats.quine.sh/siddhld/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=siddhld)
-
 
 ## Skills
 ### Here are some of my skills and expertise:
